@@ -50,7 +50,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_entranceNW",
-    "name": "hell spire citadel",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "i_red",
     "see_cost": 5,
@@ -60,7 +60,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_entranceSW",
-    "name": "hell spire citadel",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "i_red",
     "see_cost": 5,
@@ -70,7 +70,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_entranceNE",
-    "name": "hell spire citadel",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "i_red",
     "see_cost": 5,
@@ -80,7 +80,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_entranceSE",
-    "name": "hell spire citadel",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "i_red",
     "see_cost": 5,
@@ -90,7 +90,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_tunnel_B1W",
-    "name": "hell spire",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "red",
     "see_cost": 5,
@@ -100,7 +100,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_tunnel_B1E",
-    "name": "hell spire",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "red",
     "see_cost": 5,
@@ -110,7 +110,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_tunnel_prison_N",
-    "name": "hell spire holding cells",
+    "name": "地狱城堡牢房",
     "sym": "I",
     "color": "i_magenta",
     "see_cost": 5,
@@ -120,7 +120,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_tunnel_prison_S",
-    "name": "hell spire holding cells",
+    "name": "地狱城堡牢房",
     "sym": "I",
     "color": "i_magenta",
     "see_cost": 5,
@@ -130,7 +130,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_tunnel_B2E",
-    "name": "hell spire",
+    "name": "地狱城堡",
     "sym": "I",
     "color": "red",
     "see_cost": 5,
@@ -140,7 +140,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_B3N",
-    "name": "hell spire arena",
+    "name": "地狱城堡竞技场",
     "sym": "I",
     "color": "red",
     "see_cost": 5,
@@ -150,7 +150,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_city_B3S",
-    "name": "hell spire arena",
+    "name": "地狱城堡竞技场",
     "sym": "I",
     "color": "red",
     "see_cost": 5,
@@ -160,7 +160,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_NW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -170,7 +170,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_N",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -180,7 +180,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_NE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -190,7 +190,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_CW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -200,7 +200,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_C",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -210,7 +210,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_CE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -220,7 +220,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_SW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -230,7 +230,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_S",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -240,7 +240,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_SE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -250,7 +250,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_NW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -260,7 +260,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_N",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -270,7 +270,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_NE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -280,7 +280,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_CW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -290,7 +290,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_C",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -300,7 +300,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_CE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -310,7 +310,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_SW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -320,7 +320,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_S",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -330,7 +330,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B1_SE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -340,7 +340,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_NW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -350,7 +350,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_N",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -360,7 +360,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_NE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -370,7 +370,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_CW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -380,7 +380,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_C",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -390,7 +390,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_CE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -400,7 +400,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_SW",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -410,7 +410,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_S",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -420,7 +420,7 @@
   {
     "type": "overmap_terrain",
     "id": "hell_castle_B2_SE",
-    "name": "hell castle",
+    "name": "地狱城堡",
     "sym": "O",
     "color": "i_red",
     "see_cost": 5,
@@ -439,7 +439,7 @@
   {
     "type": "overmap_terrain",
     "id": "trapdoor_pit_b1",
-    "name": "spider lairs",
+    "name": "蜘蛛巢穴",
     "sym": "O",
     "color": "light_gray",
     "see_cost": 2,
@@ -448,7 +448,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_00",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -458,7 +458,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_10",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -468,7 +468,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_20",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -478,7 +478,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_30",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -488,7 +488,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_40",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -498,7 +498,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_50",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -508,7 +508,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_01",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -518,7 +518,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_11",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -528,7 +528,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_21",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -538,7 +538,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_31",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -548,7 +548,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_41",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -558,7 +558,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_51",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -568,7 +568,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_02",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -578,7 +578,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_12",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -588,7 +588,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_22",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -598,7 +598,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_32",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -608,7 +608,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_42",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -618,7 +618,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_52",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -628,7 +628,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_03",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -638,7 +638,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_13",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -648,7 +648,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_23",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -658,7 +658,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_33",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -668,7 +668,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_43",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -678,7 +678,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_53",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -688,7 +688,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_04",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -698,7 +698,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_14",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -708,7 +708,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_24",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -718,7 +718,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_34",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -728,7 +728,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_44",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -738,7 +738,7 @@
   {
     "type": "overmap_terrain",
     "id": "cemetery_large_54",
-    "name": "public cemetery",
+    "name": "大型坟地",
     "sym": "n",
     "color": "light_gray",
     "see_cost": 5,
@@ -889,7 +889,7 @@
   {
     "type": "overmap_terrain",
     "id": "wasp_center",
-    "name": "wasp hive",
+    "name": "黄蜂蜂巢",
     "sym": "a",
     "color": "white",
     "see_cost": 5,
@@ -919,7 +919,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_house",
-    "name": "plantation house",
+    "name": "种植园房",
     "sym": "^",
     "color": "brown",
     "see_cost": 2,
@@ -929,7 +929,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_house_e",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -939,7 +939,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_garden",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "│",
     "color": "brown",
     "see_cost": 2,
@@ -949,7 +949,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_garden_e",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -969,7 +969,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_n",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -979,7 +979,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_ne",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -989,7 +989,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -999,7 +999,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_e",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1009,7 +1009,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_nw",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1019,7 +1019,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_s",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1029,7 +1029,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_se",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1039,7 +1039,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_w",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1049,7 +1049,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_nw",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1059,7 +1059,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_n",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1069,7 +1069,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_ne",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1079,7 +1079,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_w",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1089,7 +1089,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_sw",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1099,7 +1099,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_e",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1109,7 +1109,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_pasture_se",
-    "name": "plantation",
+    "name": "种植园",
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
@@ -1119,7 +1119,7 @@
   {
     "type": "overmap_terrain",
     "id": "barn_drive",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "└",
     "color": "brown",
     "see_cost": 2
@@ -1127,7 +1127,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_drive_n",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "┴",
     "color": "brown",
     "see_cost": 2
@@ -1135,7 +1135,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_drive",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "┴",
     "color": "brown",
     "see_cost": 2
@@ -1143,7 +1143,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_17",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1153,7 +1153,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_drive_s",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "┴",
     "color": "brown",
     "see_cost": 2
@@ -1161,7 +1161,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_drive_sw",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2
@@ -1169,7 +1169,7 @@
   {
     "type": "overmap_terrain",
     "id": "farm_crops_sw",
-    "name": "plantation",
+    "name": "种植园",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 2,
@@ -1354,7 +1354,7 @@
   {
     "type": "overmap_terrain",
     "id": "sludge_pit",
-    "name": "sludge pit",
+    "name": "泥油坑",
     "sym": "~",
     "color": "light_gray",
     "see_cost": 5,
@@ -1363,7 +1363,7 @@
   {
     "type": "overmap_terrain",
     "id": "sludge_pit_under",
-    "name": "sludge pit",
+    "name": "泥油坑",
     "sym": "~",
     "color": "light_gray",
     "see_cost": 5,
@@ -1372,7 +1372,7 @@
   {
     "type": "overmap_terrain",
     "id": "sky_vortex",
-    "name": "unempty air",
+    "name": "虚幻气体",
     "sym": ".",
     "color": "blue",
     "mondensity": 3
@@ -1389,7 +1389,7 @@
   {
     "type": "overmap_terrain",
     "id": "barn_old",
-    "name": "derelict barn",
+    "name": "废弃谷仓",
     "sym": "#",
     "color": "i_brown",
     "see_cost": 5,
@@ -1399,7 +1399,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_00",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1409,7 +1409,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_01",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1419,7 +1419,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_02",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1429,7 +1429,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_10",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1439,7 +1439,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_11",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1449,7 +1449,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_12",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1459,7 +1459,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_20",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1469,7 +1469,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_21",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,
@@ -1479,7 +1479,7 @@
   {
     "type": "overmap_terrain",
     "id": "police_hub_22",
-    "name": "police hub",
+    "name": "警察警署",
     "sym": "^",
     "color": "h_yellow",
     "see_cost": 5,

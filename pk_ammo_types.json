@@ -2,19 +2,19 @@
   {
     "type": "ammunition_type",
     "id": "bomblet",
-    "name": "bomblet",
+    "name": "小炸弹",
     "default": "bomblet_explosive"
   },
   {
     "type": "ammunition_type",
     "id": "bfg_plutonium",
-    "name": "bfg shell",
+    "name": "BFG炮弹",
     "default": "bfg_shell"
   },
   {
     "type": "ammunition_type",
     "id": "smoke_juice",
-    "name": "smokey solution",
+    "name": "烟雾剂",
     "default": "water_smoke"
   }
 ]

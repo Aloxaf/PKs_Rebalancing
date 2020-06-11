@@ -57,7 +57,7 @@
     "id": "mon_sewer_snake",
     "type": "MONSTER",
     "copy-from": "mon_sewer_snake",
-    "description": "An aggressive mutant variety of the worm snake, turned pale yellow from its underground life.  It swarms beneath the ground and is named for its habit of infesting sewer lines and potent smell.",
+    "description": "这是一种具有攻击性的变异盲蛇,地下的生活赋予了其淡黄色的躯体.这种生物生活在地下,并因为其群居在下水道的习性,而得名.",
     "default_faction": "mutant_omnivore",
     "attack_effs": [
       { "id": "badpoison", "duration": 900 },
@@ -234,8 +234,8 @@
   {
     "id": "mon_thing_head",
     "type": "MONSTER",
-    "name": "dog head",
-    "description": "A dogs head, with ichorous black ooze and tentacles flowing from its stump.",
+    "name": "犬首",
+    "description": "一个狗的头,黑色的软泥和触手从它那撕裂开的伤口中不断地流出.",
     "default_faction": "mutant",
     "species": [ "NETHER" ],
     "diff": 16,
@@ -262,8 +262,8 @@
   {
     "id": "mon_thing_spider",
     "type": "MONSTER",
-    "name": "spider head",
-    "description": "A detached, malformed head with ten spiderly limbs and a bemoaning stare.",
+    "name": "蜘蛛头颅",
+    "description": "一个畸形的头颅,上面长有十条细长的肢体,那眼眶中还有一双眼睛在看着你.",
     "default_faction": "mutant",
     "species": [ "NETHER" ],
     "diff": 16,
@@ -506,8 +506,8 @@
   {
     "id": "mon_bat_vampire",
     "type": "MONSTER",
-    "name": "vampire bat",
-    "description": "A mutated bat with a narrow, proboscis-like snout.  After its pack stuns the prey, it uses its teeth to gouge a hole into it and its slender tongue to quickly lap up the resulting blood.",
+    "name": "吸血蝙蝠",
+    "description": "一种变异的蝙蝠,有着奇怪形状的鼻子.当它的团队把猎物打晕后,它用牙齿在猎物身上咬出一个洞,用细长的舌头迅速吸干猎物的血液.",
     "default_faction": "mutant_small",
     "categories": [ "WILDLIFE" ],
     "species": [ "ABERRATION" ],
@@ -563,8 +563,8 @@
   {
     "id": "mon_coyote_wolf_zerg",
     "type": "MONSTER",
-    "name": "scythed coyote",
-    "description": "It looks like a brown coyote with black streaks along its side.  Except against either haunch rests a muscular folded limb terminating in a scythe-like bony protrusion.",
+    "name": "镰尾土狼",
+    "description": "它看起来像一只普通的棕色土狼,身体侧边有黑色的条纹,除了在两腿之间有一个可以折叠的肌肉肢体,末端有一个镰刀状的突出物.",
     "default_faction": "dog",
     "categories": [ "WILDLIFE" ],
     "species": [ "MAMMAL" ],
@@ -626,8 +626,8 @@
   {
     "id": "mon_raphael",
     "type": "MONSTER",
-    "name": "turtle man",
-    "description": "A large green humanoid with bloated-looking skin and a hardened brown shell surrounding its midrift.  Though muscular and agile, both skin and carapace shimmer with a sickening sheen.  It wears a crude blindfold with large hole to allow vision.",
+    "name": "拉斐尔",
+    "description": "一个十分强壮的绿色类人生物,皮肤肿胀,中间和背部长有一个坚硬的棕色壳.虽然肌肉发达,动作敏捷,但它的皮肤和龟壳都闪着令人作呕的光泽.它戴着一个粗糙的红色眼罩,上面有两个破洞,可以看见东西.",
     "default_faction": "mutant",
     "species": [ "REPTILE" ],
     "diff": 28,
@@ -695,7 +695,7 @@
   {
     "id": "mon_donatello",
     "type": "MONSTER",
-    "name": "turtle man",
+    "name": "多纳泰罗",
     "copy-from": "mon_raphael",
     "hp": 160,
     "speed": 110,
@@ -728,7 +728,7 @@
         "require_targeting_player": false,
         "require_targeting_npc": false,
         "require_targeting_monster": false,
-        "description": "The purple turtle jabs forth with lightning speed!",
+        "description": "带着紫色眼罩的忍者神龟冲过来了!",
         "no_ammo_sound": "kowwabunga!"
       }
     ],
@@ -753,7 +753,7 @@
   {
     "id": "mon_leonardo",
     "type": "MONSTER",
-    "name": "turtle man",
+    "name": "李奥纳多",
     "copy-from": "mon_raphael",
     "hp": 180,
     "speed": 115,
@@ -793,7 +793,7 @@
         "require_targeting_player": false,
         "require_targeting_npc": false,
         "require_targeting_monster": false,
-        "description": "The blue turtle ignites the darkness!"
+        "description": "蓝色的忍者神龟照亮了黑暗!"
       }
     ],
     "starting_ammo": { "signal_flare": 2 },
@@ -817,7 +817,7 @@
   {
     "id": "mon_michelangelo",
     "type": "MONSTER",
-    "name": "turtle man",
+    "name": "米开朗琪罗",
     "copy-from": "mon_raphael",
     "hp": 160,
     "speed": 120,
@@ -855,8 +855,8 @@
   {
     "id": "mon_ratman_ninja",
     "type": "MONSTER",
-    "name": "ratten",
-    "description": "A hunch-backed rat man-thing with vicious looking claws and a loose fitting tunic.  Hungry eyes peer into the dark and search for food - or baubles.",
+    "name": "斯普林特",
+    "description": "一个驼背的人形老鼠,长着看上去十分凶恶的爪子,身上穿着宽松的束腰外衣.它那饥饿的眼睛凝视着黑暗,寻找着食物——或者小玩意.",
     "default_faction": "mutant",
     "species": [ "MAMMAL" ],
     "diff": 20,
@@ -1060,9 +1060,9 @@
   {
     "id": "mon_thing_swamp",
     "type": "MONSTER",
-    "name": "swampass",
-    "name_plural": "swampasses",
-    "description": "A reed-cloaked entity, slow, untiring, and reeking of the grave and all that toxic waste.",
+    "name": "芦苇人",
+    "name_plural": "芦苇人",
+    "description": "一个裹着芦苇的人形实体,行动缓慢,却不知何为疲倦,它身上散发着坟墓和所有有毒废物的气味.",
     "default_faction": "mutant",
     "species": [ "HORROR" ],
     "diff": 22,

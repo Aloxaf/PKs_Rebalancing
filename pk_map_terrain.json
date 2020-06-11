@@ -2,8 +2,8 @@
   {
     "type": "terrain",
     "id": "t_improvised_fence",
-    "name": "makeshift fence",
-    "description": "Makeshift post-fence",
+    "name": "临时围栏",
+    "description": "临时围栏",
     "symbol": "_",
     "color": "brown",
     "move_cost": 0,
@@ -11,8 +11,8 @@
     "bash": {
       "str_min": 8,
       "str_max": 16,
-      "sound": "crack!",
-      "sound_fail": "crunch.",
+      "sound": "爆裂声!",
+      "sound_fail": "嘎吱声.",
       "ter_set": "t_pit_shallow",
       "items": [ { "item": "stick", "count": [ 2, 5 ] }, { "item": "splinter", "count": [ 4, 8 ] } ]
     }
@@ -20,8 +20,8 @@
   {
     "type": "terrain",
     "id": "t_pit_foxhole",
-    "name": "foxhole",
-    "description": "An improvised shelter made by digging a pit one can shelter in and covering the top",
+    "name": "避弹掩体",
+    "description": "临时掩体.临时掩体通过挖一个可以遮蔽的坑并盖住顶部而制成的临时掩体",
     "symbol": "Q",
     "color": "brown",
     "move_cost": 10,
@@ -160,7 +160,7 @@
   {
     "type": "terrain",
     "id": "t_iron_fence",
-    "name": "iron wrought fence",
+    "name": "钢筋骨架",
     "description": " ",
     "symbol": "LINE_OXOX",
     "color": "dark_gray",
@@ -190,7 +190,7 @@
   {
     "type": "terrain",
     "id": "t_iron_gate_c",
-    "name": "closed iron gate",
+    "name": "金属门（关）",
     "description": " ",
     "symbol": "=",
     "color": "dark_gray",
@@ -212,7 +212,7 @@
   {
     "type": "terrain",
     "id": "t_iron_gate_o",
-    "name": "open iron gate",
+    "name": "金属门（开）",
     "description": " ",
     "symbol": ".",
     "color": "dark_gray",
@@ -232,7 +232,7 @@
   {
     "type": "terrain",
     "id": "t_iron_gate_l",
-    "name": "locked iron gate",
+    "name": "金属门（关）",
     "description": " ",
     "symbol": "=",
     "color": "dark_gray",
@@ -257,7 +257,7 @@
   {
     "type": "terrain",
     "id": "t_iron_fence_posts",
-    "name": "mangled iron fence",
+    "name": "钢筋骨架(损坏)",
     "description": " ",
     "symbol": "#",
     "color": "light_gray",
@@ -276,7 +276,7 @@
     "type": "terrain",
     "id": "t_paper",
     "copy-from": "t_paper",
-    "name": "paper wall",
+    "name": "纸墙",
     "description": " ",
     "symbol": "#",
     "color": "white",
@@ -285,8 +285,8 @@
     "bash": {
       "str_min": 3,
       "str_max": 10,
-      "sound": "rrrrip!",
-      "sound_fail": "slap!",
+      "sound":"咝啦！",
+      "sound_fail":"啪！",
       "sound_vol": 8,
       "sound_fail_vol": 12,
       "ter_set": "t_null",
@@ -296,7 +296,7 @@
   {
     "type": "terrain",
     "id": "t_paper_floor",
-    "name": "paper floor",
+    "name": "纸地板",
     "description": " ",
     "symbol": ".",
     "color": "white",
@@ -306,8 +306,8 @@
     "bash": {
       "str_min": 4,
       "str_max": 12,
-      "sound": "rrrrip!",
-      "sound_fail": "slap!",
+      "sound":"咝啦！",
+      "sound_fail":"啪！",
       "sound_vol": 6,
       "sound_fail_vol": 4,
       "ter_set": "t_null",
@@ -317,8 +317,8 @@
   {
     "type": "terrain",
     "id": "t_tar",
-    "name": "tar",
-    "description": "Some very flammable tar in a pit, you could probably swim through it.",
+    "name": "焦油坑",
+    "description": "坑里有非常易燃的焦油，你也许能游过去.",
     "symbol": "~",
     "color": "dark_gray",
     "move_cost": 8,
@@ -327,8 +327,8 @@
   {
     "type": "terrain",
     "id": "t_sludge",
-    "name": "sludge",
-    "description": "Some flammable sludge in a pit, you could probably swim through it.",
+    "name": "易燃污泥坑",
+    "description": "坑里有一些易燃的污泥，你也许能游过去.",
     "symbol": "~",
     "color": "light_gray",
     "move_cost": 6,

@@ -2,7 +2,7 @@
   {
     "type": "material",
     "ident": "spess_plastic",
-    "name": "Poly-Layered Plastic",
+    "name": "聚乙烯分层塑料",
 	"density": 10,
     "salvage_id": "spess_chunk",
     "bash_resist": 4,
