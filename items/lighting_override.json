@@ -2,8 +2,8 @@
   {
     "id": "handflare",
     "type": "TOOL",
-    "name": "flare",
-    "description": "This is a slow-burning magnesium flare.  Use it to strike the striker and light it.  It will produce a bright light for about a half hour.  The flare will take several seconds to fully ignite.",
+    "name": "照明弹",
+    "description": "一个缓慢燃烧的镁制照明弹.用它击打撞击器并点燃它.它将产生约半小时的强光.照明弹需要几秒钟才能完全点燃.",
     "material": [ "plastic", "powder" ],
     "symbol": ";",
     "color": "light_red",
@@ -15,9 +15,9 @@
   {
     "id": "handflare_act",
     "type": "TOOL",
-    "name": "struck flare",
+    "name": "照明弹（就绪）",
     "copy-from": "handflare",
-    "description": "An activated flare, any moment now the chemicals will finish mixing and the flare will ignite.",
+    "description": "一个缓慢燃烧的镁制照明弹.激活它将产生约半小时的强光.",
     "initial_charges": 6,
     "turns_per_charge": 1,
     "countdown_interval": 6,
@@ -27,15 +27,15 @@
     "id": "handflare_lit",
     "copy-from": "handflare",
     "type": "TOOL",
-    "name": "active flare",
-    "description": "This burning magnesium flare is producing light.  It will last for about a half hour before burning out.",
+    "name": "照明弹（激活）",
+    "description": "一个正在燃烧的镁制照明弹.它将产生约半小时的强光..",
     "color": "white",
     "initial_charges": 300,
     "max_charges": 300,
     "emits": [ "emit_smoke_flare" ],
     "turns_per_charge": 1,
     "revert_to": "handflare_dead",
-    "revert_msg": "The flare sputters out",
+    "revert_msg": "照明弹发出了亮光",
     "use_action": [  ],
     "flags": [ "FIRE", "LIGHT_240", "CHARGEDIM", "FLAMING", "TRADER_AVOID" ]
   },
@@ -43,8 +43,8 @@
     "id": "cell_phone_flashlight",
     "copy-from": "cell_phone_flashlight",
     "type": "TOOL",
-    "name": "cell phone - Flashlight",
-    "name_plural": "cell phones - Flashlight",
+    "name": "手机-手电筒",
+    "name_plural": "手机-手电筒",
     "turns_per_charge": 6
   }
 ]

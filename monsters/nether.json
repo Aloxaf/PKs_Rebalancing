@@ -30,8 +30,8 @@
   {
     "id": "mon_stemcell_nether",
     "type": "MONSTER",
-    "name": "shimmering light",
-    "description": "A shimmering light.  It has no shape at all, yet you can see limbs and appendages poking out of and into its core.  It clearly has some kind of sentience, judging by its informed actions.",
+    "name": "闪烁的光",
+    "description": "一个闪烁的光.它没有任何形状,但你可以看到它的四肢和附属物从它的核心伸出并重新回到它的核心.从它的行动来看,它显然有某种感觉或者意识.",
     "default_faction": "nether",
     "size": "SMALL",
     "harvest": "exempt",
@@ -158,7 +158,7 @@
     "type": "MONSTER",
     "copy-from": "mon_mi_go",
     "name": "mi-go",
-    "description": "A flexuous monstrosity seeming as a giant crab covered in writhing antennae, clawed tentacles, and star-shaped growths, with a head like the insides of a fish but for its dire utterance.",
+    "description": "一只来自异界的未知起源的生物.它的结构混乱的粉红色身体带有许多未知功能的成对附肢,还有一对似乎毫无用处的带肋的膜状翅膀.它奇怪的约如金字塔状的头部有许多摇摆的触角,只是看了一眼这只超自然的怪物就让你充满了原始的恐惧.",
     "upgrades": { "half_life": 1, "into_group": "MI_GO_EVO" }
   },
   {
@@ -167,14 +167,14 @@
     "copy-from": "mon_mi_go",
     "name": "mi-go",
     "hp": 200,
-    "description": "A flexuous monstrosity seeming as a giant crab covered in writhing antennae, clawed tentacles, and star-shaped growths, with a head like the insides of a fish but for its dire utterance."
+    "description": "一只来自异界的未知起源的生物.它的结构混乱的粉红色身体带有许多未知功能的成对附肢,还有一对似乎毫无用处的带肋的膜状翅膀.它奇怪的约如金字塔状的头部有许多摇摆的触角,只是看了一眼这只超自然的怪物就让你充满了原始的恐惧."
   },
   {
     "id": "mon_mi_go_fly",
     "type": "MONSTER",
     "copy-from": "mon_mi_go",
-    "name": "flying mi-go",
-    "description": "THEY HAVE WINGS",
+    "name": "有翼米·戈",
+    "description": "它们有了翅膀！",
     "hp": 180,
     "speed": 125,
     "melee_skill": 8,
@@ -183,8 +183,8 @@
   {
     "id": "mon_horror_dusk",
     "type": "MONSTER",
-    "name": "dusk horror",
-    "description": "An anteater twisted into humanoid form.  Its elongated trunk wriggles with fury.  Its antlers are hairy.  Its eyebrows bushel into a furrow.  Beware its deadly saliva!  Now you know why you fear the night.",
+    "name": "黄昏之怖",
+    "description": "一个食蚁兽被扭曲成了诡异的人形.它那细长的枝干愤怒地扭动着.它那多毛的鹿角,以及那弯成一条沟的眉毛.小心它致命的唾液!现在你知道你为什么害怕那可怖的夜晚了.",
     "default_faction": "nether",
     "species": [ "ABERRATION" ],
     "diff": 35,
@@ -252,7 +252,7 @@
   {
     "id": "mon_horror_dusk_queen",
     "type": "MONSTER",
-    "name": "dusk horror",
+    "name": "黄昏女王",
     "copy-from": "mon_horror_dusk",
     "hp": 440,
     "speed": 100,

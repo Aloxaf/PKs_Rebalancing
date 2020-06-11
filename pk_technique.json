@@ -2,22 +2,22 @@
   {
     "type": "technique",
     "id": "heavy_blow",
-    "name": "Hammerblow",
-    "description": "Heavy Knockback Attack",
+    "name": "锤击",
+    "description": "重击并震退敌人",
     "unarmed_allowed": true,
     "melee_allowed": true,
     "crit_tec": true,
     "stun_dur": 3,
     "knockback_dist": 1,
     "weighting": -2,
-    "messages": [ "You hammer on %s", "<npcname> hammers at %s" ],
+    "messages": [ "你狠狠的锤在%s身上", "<npcname>狠狠的锤锤在%s" ],
     "mult_bonuses": [ [ "movecost", 1.75 ], [ "damage", "bash", 1.66 ], [ "damage", "cut", 0.75 ], [ "damage", "stab", 1.33 ] ]
   },
   {
     "id": "repose",
     "type": "technique",
-    "name": "Repose",
-    "description": "Grab Breaking Attack",
+    "name": "喘息机会",
+    "description": "抓破攻击",
     "min_melee": 0,
     "weighting": -3,
     "crit_tec": true,
@@ -25,14 +25,14 @@
     "melee_allowed": true,
     "grab_break": true,
     "stun_dur": 1,
-    "messages": [ "You defensively repose yourself as you attack", "<npcname>%s defensively reposes themself and damages" ],
+    "messages": [ "当你攻击时,你寻找着时机稍稍休息", "<npcname>%s寻找着时机休息和攻击" ],
     "mult_bonuses": [ [ "movecost", 1.1 ], [ "damage", "bash", 0.8 ], [ "damage", "cut", 1.0 ], [ "damage", "stab", 0.8 ] ]
   },
   {
     "id": "stuck_in_1",
     "type": "technique",
-    "name": "Lodge-in risk",
-    "description": "Slow Attack [66%]",
+    "name": "卡住",
+    "description": "攻击速度下降为 [66%]",
     "min_melee": 0,
     "max_melee": 3,
     "weighting": -5,
@@ -40,32 +40,32 @@
     "melee_allowed": true,
     "stun_dur": 1,
     "messages": [
-      "Your weapon gets well-lodged in the wound and takes time to remove!  It strikes for",
-      "<npcname>%s weapon gets well-lodged in the wound and takes time to remove!  It strikes for"
+      "你的武器很容易卡在敌人的伤口里,需要时间才能取出来!",
+      "npcname>%s武器很容易卡在敌人的伤口里,需要时间才能取出!"
     ],
     "mult_bonuses": [ [ "movecost", 1.67 ], [ "damage", "bash", 1.67 ], [ "damage", "cut", 1.2 ], [ "damage", "stab", 1.3 ] ]
   },
   {
     "id": "stuck_in_2",
     "type": "technique",
-    "name": "Stuck-in risk",
-    "description": "Slightly Slower Attack [33%]",
+    "name": "卡住",
+    "description": "攻击速度下降为[33%]",
     "min_melee": 0,
     "max_melee": 6,
     "weighting": -5,
     "unarmed_allowed": false,
     "melee_allowed": true,
     "messages": [
-      "Your weapon gets stuck in the wound and takes some time to remove!  It strikes for",
-      "<npcname>%s weapon gets stuck in the wound and takes some time to remove!  It strikes for"
+      "你的武器被卡在了敌人的伤口里,需要一些时间才能拔出!",
+      "<npcname>%s武器被卡了敌人在伤口里,需要一些时间才能拔出!"
     ],
     "mult_bonuses": [ [ "movecost", 1.33 ], [ "damage", "bash", 1.1 ], [ "damage", "cut", 1.2 ], [ "damage", "stab", 1.1 ] ]
   },
   {
     "id": "stuck_in_3",
     "type": "technique",
-    "name": "Wedge-in chance",
-    "description": "Slow Attack to Down and Stun an Enemy",
+    "name": "见缝插针",
+    "description": "缓慢沉重的一击并击晕敌人",
     "min_melee": 4,
     "weighting": -5,
     "unarmed_allowed": false,
@@ -73,8 +73,8 @@
     "down_dur": 1,
     "stun_dur": 1,
     "messages": [
-      "Your weapon leverages your opponent off-balance!  It strikes for",
-      "<npcname>%s leverages their opponent off-balance!  It strikes for"
+      "你的武器重击了对手使你的对手失去平衡!",
+      "<npcname>%s 武器的重击使对手失去平衡!"
     ],
     "mult_bonuses": [ [ "movecost", 1.25 ], [ "damage", "bash", 1.2 ], [ "damage", "cut", 1.25 ], [ "damage", "stab", 1.2 ] ]
   }
