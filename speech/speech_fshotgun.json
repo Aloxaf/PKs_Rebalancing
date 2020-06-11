@@ -2,73 +2,73 @@
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"H-Hello?\"",
+    "sound": "\"你...你好?\"",
     "volume": 15
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Hey you!\"",
+    "sound": "\"嘿，你!\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "You put the lime in the coco nuts and shake your body round!",
+    "sound": "你在椰子里放上酸橙，然后摇动你的身体!",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"When the fourth wall is torn down, THEN!\"",
+    "sound": "\"当第四堵墙被推倒的时候,该死的!\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"when I find that little somnabitch, I'll show 'em who's boss\"",
+    "sound": "\"等我找到那个小贱人，我就告诉他们谁是老大\"",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"IT BURNS!\"",
+    "sound": "\"它烧着了!\"",
     "volume": 40
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"So . . . itchy\"",
+    "sound": "\"好 . . . 痒\"",
     "volume": 15
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"!!Cleanse me in flames!!\"",
+    "sound": "\"!!用火焰净化我!!\"",
     "volume": 40
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"You! Come here!\"",
+    "sound": "\"你!来这里!\"",
     "volume": 20
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"I'm dying for a leg of meat . . .\"",
+    "sound": "\"我非常想吃一整条腿 . . .\"",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"They told me it was safe, why would they lie to me?\"",
+    "sound": "\"他们告诉我很安全，为什么要骗我?\"",
     "volume": 15
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Gonna get me a chainsaw, strap it to my arm.\"",
+    "sound": "\"给我拿把电锯，绑在我胳膊上.\"",
     "volume": 15
   },
   {
@@ -80,13 +80,13 @@
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"THIS IS MY BOOMSTICK!!\"",
+    "sound": "\"这是我的扩音器!!\"",
     "volume": 40
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Groovy\"",
+    "sound": "\"妙极了\"",
     "volume": 10
   },
   {
@@ -98,55 +98,55 @@
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"If wanted to kill people all you idiots would be dead already!\"",
+    "sound": "\"如果你们这些白痴想杀人的话，早就死了!\"",
     "volume": 20
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Soldier Be Prepared, Prepared\"",
+    "sound": "\"士兵们，做好准备，做好准备\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Fight for our Cause\"",
+    "sound": "\"为我们的事业而战\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Die for our King!\"",
+    "sound": "\"为我们的国王而死!\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Be Worth of our Cause!\"",
+    "sound": "\"对我们的事业有贡献!\"",
     "volume": 30
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"This is all because those PINKOS at the megastore wouldn't sell good, honest citizens MACHINE RIFLES!\"",
+    "sound": "\"这都是因为那些左倾分子超级商场不会出售好的,可靠的公民机步枪!\"",
     "volume": 20
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"I just wanna go home now\"",
+    "sound": "\"我现在只想回家\"",
     "volume": 15
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"So tired . . .\"",
+    "sound": "\"好累 . . .\"",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_furvivor_shotgun",
-    "sound": "\"Oink like a Piggy for me!\"",
+    "sound": "\"像小猪一样为我呼噜呼噜!\"",
     "volume": 30
   }
 ]

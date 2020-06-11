@@ -21,7 +21,7 @@
     "id": "mon_tripod",
     "type": "MONSTER",
     "copy-from": "mon_tripod",
-    "description": "The Honda Minuteman, a 4-foot tall robot walking on three spidery legs, used as aids in tactical infiltrations, guerilla warfare, and small deep field operations.  For weapons, it has a trio of spiked retractable cables and a powerful welder for cutting into steel and concrete.",
+    "description": "本田Minute-man型号的机器人,有着三条机械足走路的四英尺高的机器人,用于战术渗透、游击战和小型深野战的辅助.至于武器,它装载了三根带刺的可伸缩电缆和一个强大的焊接机,可以切割钢铁和混凝土.",
     "size": "MEDIUM",
     "hp": 60,
     "melee_skill": 8,
@@ -87,7 +87,7 @@
     "type": "MONSTER",
     "copy-from": "mon_molebot",
     "name": "miner bot",
-    "description": "A long snake-like, segmented robot built to  create tunnels and detonate landmines.",
+    "description": "分段的蛇型机器人,被建造来用以在地下掘进并探测地雷.",
     "size": "MEDIUM",
     "hp": 80,
     "speed": 40,
@@ -126,8 +126,8 @@
   {
     "id": "mon_cyborg_guard",
     "type": "MONSTER",
-    "name": "guard cyborg",
-    "description": "An outdated and decrepit looking sentinel cyborg with a rather disturbing gun barrel where its left arm should be.  What little flesh it has is pallid.  Its steps are awkward and stiff with neglect.",
+    "name": "机械警卫",
+    "description": "一个过时的,看起来十分老旧的哨兵机器人,左臂似乎缺失了一个应当安放在那里的枪管.它仅有的一点皮肉也是苍白的.它的关节因无人照管而只能笨拙僵硬地行走.",
     "default_faction": "bot",
     "species": [ "ROBOT" ],
     "diff": 50,
@@ -169,11 +169,11 @@
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
-        "targeting_sound": "\"Acquiring target.\"",
+        "targeting_sound": "\"锁定目标.\"",
         "targeting_volume": 40,
         "targeting_cost": 400,
-        "description": "Target acquired.  Lasers charged.  Termination imminent.",
-        "no_ammo_sound": "\"Power cells depleted.\""
+        "description": "目标锁定.激光充电.抓捕迫在眉睫.",
+        "no_ammo_sound": "\"能源电池耗尽.\""
       }
     ],
     "death_function": [ "NORMAL" ],
@@ -199,8 +199,8 @@
   {
     "id": "mon_cyborg_cop",
     "type": "MONSTER",
-    "name": "robotic cop",
-    "description": "A cybornetic police office with a small variety of built in weapons.  Like all early-model cyborgs, it is known for its lack of agility but incredible endurance.  Not to be underestimated, these old models always proven their worth under heavy fire.  Its weaponry is famous for being DNA locked.",
+    "name": "机械警察",
+    "description": "一个电子机械警察,它身上有各种各样的武器.像所有早期的电子人一样,它缺乏敏捷性,但因为难以置信的耐力而闻名.不可低估的是,这些老型号总是在猛烈的炮火下证明了它们的价值.它的武器以DNA锁定而闻名.",
     "default_faction": "cop_bot",
     "species": [ "ROBOT" ],
     "diff": 18,
@@ -241,7 +241,7 @@
         "require_targeting_npc": false,
         "targeting_cost": 150,
         "description": "\"Suppressing Disorder.\"",
-        "no_ammo_sound": "\"Ammo depleted.\""
+        "no_ammo_sound": "\"弹药耗尽.\""
       }
     ],
     "death_function": [ "NORMAL" ],
@@ -269,8 +269,8 @@
   {
     "id": "mon_manhack_missile",
     "type": "MONSTER",
-    "name": "revenant rocket",
-    "description": "A revenant's homing missile, working its way towards you.  If only you could disable it . . .",
+    "name": "亡魂飞弹",
+    "description": "一个亡魂的追踪导弹,不断地寻找着敌人.如果你能禁用它就好了. . .",
     "default_faction": "doom",
     "species": [ "ROBOT" ],
     "diff": 12,
@@ -301,9 +301,9 @@
   {
     "id": "mon_manhack_fire",
     "type": "MONSTER",
-    "name": "firebomb hack",
+    "name": "燃烧弹飞锯",
     "copy-from": "mon_manhack",
-    "description": "This manhack carries an incendiary explosive within its core.",
+    "description": "这个型号的飞锯无人机在其核心里装载了一个燃烧炸药,靠近敌人后就会自爆形成一片火海.",
     "default_faction": "defense_bot",
     "species": [ "ROBOT" ],
     "diff": 10,
@@ -332,8 +332,8 @@
   {
     "id": "mon_turret_shockcannon",
     "type": "MONSTER",
-    "name": "shock turret",
-    "description": "Taking the dense storage capacity of UPS to its logical conclusion, the PRD3 Mounted Shockcannon is a 'computer aided defense tool designed for repeling crowds in a nonlethal manner'.",
+    "name": "电磁炮塔",
+    "description": "研究所以UPS的密集存储容量为逻辑结论制造的炮塔,PRD-3磁震炮是一种“计算机辅助防御工具,用于以非致命方式驱赶人群”,能够用装载的磁震炮震晕敌人.",
     "default_faction": "defense_bot",
     "species": [ "ROBOT" ],
     "diff": 16,
@@ -358,8 +358,8 @@
   {
     "id": "mon_robot_drone",
     "type": "MONSTER",
-    "name": "Helidrone",
-    "description": "An automated anti-personnel drone produced by contract winner Hiensfeld Manufacturing; resembling a helicoptor the size of a human torso.  Equipped with a battle rifle, the drone possesses functional thrusters and a trio of propellers that serve in close combat.",
+    "name": "旋翼无人机",
+    "description": "由合同-赢家Hiensfeld制造公司所生产的自动杀伤无人机;一个白色涂装的躯干大小的无人直升机. 上面挂载有一支5.56口径的战斗步枪,拥有功能推进器和三个螺旋桨用于近距离缠斗.",
     "default_faction": "defense_bot",
     "species": [ "ROBOT" ],
     "diff": 28,
@@ -382,7 +382,7 @@
     "vision_night": 12,
     "luminance": 8,
     "revert_to_itype": "bot_robot_drone",
-    "starting_ammo": { "556": 100 },
+    "starting_ammo": { "556": 250 },
     "special_attacks": [
       [ "PARROT", 10 ],
       {
@@ -397,7 +397,7 @@
         "targeting_sound": "Bleerp~blip",
         "targeting_volume": 12,
         "targeting_cost": 150,
-        "description": "The Helidrone fires!",
+        "description": "无人机开火!",
         "no_ammo_sound": "\"Bleepblop.\""
       }
     ],
@@ -409,7 +409,7 @@
     "id": "mon_generator_SCINET",
     "type": "MONSTER",
     "name": "generator",
-    "description": "The generator that powers the Security, Crime, and Investigation Networking Eternal Team program.  Destroying it should stop the creation and resupply of new robots.",
+    "description": "为维护安全提供动力的发电机,用于打击犯罪,调查网络的永恒团队计划的产物.摧毁它应该会停止新机器人的生产和电力供应.",
     "default_faction": "bot",
     "species": [ "UNKNOWN" ],
     "size": "HUGE",

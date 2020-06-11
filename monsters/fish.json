@@ -16,8 +16,8 @@
   {
     "id": "mon_fish_eel_large",
     "type": "MONSTER",
-    "name": "giant freshwater eel",
-    "description": "A giant eel, thick as a man's torso.  Ravenous and oppurtunistic, this hook-jawed horror prowls the rivers freely.",
+    "name": "淡水巨鳗鱼",
+    "description": "一条巨大的鳗鱼,几乎和人的躯干一样宽.这条长着钩颌的鳗鱼自由地游在河流之中.",
     "default_faction": "rat",
     "categories": [ "WILDLIFE" ],
     "species": [ "FISH" ],
@@ -63,8 +63,8 @@
   {
     "id": "mon_fish_flying",
     "type": "MONSTER",
-    "name": "flying fish",
-    "description": "A fish with an incredible ability to leap from the water; its fins and teeth are large and powerful.",
+    "name": "飞鱼",
+    "description": "这条鱼具有令人难以置信的跃出水面的能力,能够跃起数米高,用它的鳍在水面上滑翔几百米;它的鳍和牙齿又大又有力.",
     "default_faction": "rat",
     "categories": [ "WILDLIFE" ],
     "species": [ "FISH" ],
@@ -107,8 +107,8 @@
   {
     "id": "mon_fish_lobster_giant",
     "type": "MONSTER",
-    "name": "giant lobster",
-    "description": "A sea cockroach, engorged to preposterous proportions.  With a large claw for crushing and a slightly smaller large claw for scooping out flesh from shells, this normally sluggish monster is surprisingly agile and predatory when a meal is nearby.",
+    "name": "巨型海螯虾",
+    "description": "一只大得出奇的海螯虾.这种在海底通常行动迟缓的怪物有一个用来碾碎猎物的大鳌和一个稍微小一点的用来从贝壳中挖出肉的螯.",
     "default_faction": "fish_predator",
     "categories": [ "WILDLIFE" ],
     "species": [ "FISH" ],
@@ -160,9 +160,9 @@
         "effects": [ { "id": "grabbed", "duration": 1000 } ]
       }
     ],
-    "regen_morale": true,
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "SMELLS", "SWIMS", "DESTROYS", "ARTHROPOD_BLOOD", "STUMBLES"],
+    "regen_morale": true,
+	"flags": [ "SEES", "SMELLS", "SWIMS", "DESTROYS", "ARTHROPOD_BLOOD", "STUMBLES" ],
     "anger_triggers": [ "PLAYER_CLOSE", "STALK", "FIRE", "HURT" ],
     "placate_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "SOUND" ]
   }

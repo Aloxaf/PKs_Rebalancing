@@ -39,7 +39,7 @@
     "type": "effect_type",
     "id": "chelated_iron",
     "name": [ "Ferric Iron", "Ferric Iron", "Chelated Iron", "Chelated Iron", "Ionic Overdose", "Ionic Overdose" ],
-    "desc": [ "Something you have consumed was never meant for eating and contains heavy metals." ],
+    "desc": [ "你吃的东西从来不是用来吃的，而且含有重金属." ],
     "int_add_val": 1,
     "max_intensity": 6,
     "base_mods": {

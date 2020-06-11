@@ -2,15 +2,15 @@
   {
     "type": "profession",
     "ident": "doomguy",
-    "name": "Doomguy",
-    "description": "Having just torn a hole through hell itself, you stepped into a teleporter to find yourself... here.  Your radio is dead, you're out of supplies, and you're still knee-deep in the dead.  There's a whole new world to purge, but you see some old enemies ahead.",
+    "name": "毁灭战士",
+    "description": "你刚刚在地狱里摧毁了一个洞穴,当你走进一个传送器后,发现自己……在这里.现在你的收音机坏了, 你也没有剩余的补给了,你就快半截入土了.即使这是一个全新的世界,但你会看到一些昔日里在地狱的混蛋在这里.",
     "points": 7,
     "skills": [
       { "name": "gun", "level": 4 },
       { "name": "dodge", "level": 5 },
       { "name": "melee", "level": 3 },
       { "name": "shotgun", "level": 4 },
-      { "name": "firstaid", "level": 3 }
+	  { "name": "firstaid", "level": 3 }
     ],
     "traits": [ "PSYCHOPATH", "TERRIFYING" ],
     "items": {
@@ -44,16 +44,16 @@
   {
     "type": "profession",
     "ident": "riot_cop",
-    "name": "SWAT Pointman",
-    "description": "You are a pointman for the statewide SWAT force.  You are dispatched in small groups to settle disputes that the politicians want handled with a more 'human' touch for public relations purposes.  Something spit gooey-hot acid all over your armor and mask, but you still have your shield and arbiter.",
+    "name": "SWAT特遣指挥官",
+    "description": "你是SWAT全州特种部队的精英.为了一场政治家想要处理的暴动,你被派到特遣队之中去解决政客们希望以更“人性化”的方式处理的争议,以展现和平.但有什么东西在你的盔甲和面具上吐了一身黏糊糊的热酸,不过你还有你的盾牌和仲裁者.",
     "points": 5,
     "skills": [
       { "name": "gun", "level": 3 },
       { "name": "launcher", "level": 2 },
-      { "name": "melee", "level": 2 },
+	  { "name": "melee", "level": 2 },
       { "name": "unarmed", "level": 2 },
       { "name": "bashing", "level": 1 }
-    ],
+	],
     "traits": [ "PROF_SWAT" ],
     "items": {
       "both": {
@@ -86,8 +86,8 @@
   {
     "type": "profession",
     "ident": "huntsman",
-    "name": "Hunter",
-    "description": "Taking to the woods for long periods of isolated hunting, your reliance on techonology has been limited compared to others of your generation.  In addition to your gear, you carry a bow for hunting and a stub revolver for protection.",
+    "name": "林中猎人",
+    "description": "在森林里独自狩猎了很长一段时间,与你们这一代的其他人相比,你们对科技的依赖较少.除了你的装备,你还带着打猎用的弓和保护用的短左轮手枪.",
     "points": 5,
     "skills": [
       { "name": "survival", "level": 3 },
@@ -137,8 +137,8 @@
   {
     "type": "profession",
     "ident": "mutant_crafter",
-    "name": "MuCo Lab Assistant",
-    "description": "You were a staff member for the clinical tests of a new product called 'mutagen' when the bombs fell.  In the chaos you grabbed some gear and left the others.",
+    "name": "MuCo实验研究员",
+    "description": "炸弹落下之时,你是一个负责新产品“诱变剂”的临床试验工作人员.在一片混乱中,你抓起一些装备离开逃出来了.",
     "points": 4,
     "skills": [
       { "name": "computer", "level": 3 },
@@ -181,8 +181,8 @@
   {
     "type": "profession",
     "ident": "a pisskop",
-    "name": "Generation Xer",
-    "description": "You are a rakishly handsome young person who was in their late-20s 20 years ago.  In good shape, and with a perchant for hording sentimental items, you set off on Z-day much as you did any other day . . .",
+    "name": "Xer初代",
+    "description": "你是一个英俊的年轻人,20岁准备快30岁.身体状况良好,喜欢收藏一些情感物品,你就像在其他任何一天那样出现在灾变日.....",
     "points": 4,
     "//": "gotta keep in mind balance . . .",
     "skills": [
